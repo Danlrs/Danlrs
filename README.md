@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Daniel Lucas, a computer engineering student!👋</h2>
+<h1 align="left">Hi, I'm Daniel Lucas, a computer engineering student!👋</h1>
 
 ###
 
