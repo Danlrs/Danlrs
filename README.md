@@ -44,6 +44,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/danlrs/danlrs/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Danlrs/Danlrs/output/snake.svg" alt="Snake animation" />
 
 ###
